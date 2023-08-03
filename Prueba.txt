@@ -1,3 +1,5 @@
 Prueba
 
 añadimos cambios
+
+main 2 para hacer rebase con experimentos. Para hacerlo hay que cambiar algo en la main e ir a la rama experimental y hacer git rebase main desde alli
