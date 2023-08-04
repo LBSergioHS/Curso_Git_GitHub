@@ -11,6 +11,9 @@ Curso básico para aprender a manejar Git y GitHub  realizado en [Platzi](https:
 * Páginas para mejorar mi profesionalidad 
 
 * Creado por Sergio López del equipo de desarrollo de HolaSoft
+* Incluye ejemplos en Windows
+* Este proyecto también se puede encontar en Github Pages
+
 
 Este Readme está realizado en [Meditor.md](https://pandao.github.io/editor.md/en.html) .
 **Esta genial!!!**
